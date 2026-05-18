@@ -1,10 +1,10 @@
-# Du Doan Sinh Vien Co Nguy Co Truot Mon - Do An 2
+# Xây dựng hệ thống dự đoán kết quả của sinh viên
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=ThuLinh3009/project_2&branch=main&mainModule=demo.py)
 
-> **Sinh vien:** Doan Thi Thu Linh  
-> **Do an:** Do An 2 - Ky thuat phan mem  
-> **Chu de:** Xay dung mo hinh du doan sinh vien co nguy co truot mon hoc ky 4
+> **Họ và tên:** Doan Thi Thu Linh  
+> **Lớp:** 12423TN 
+> **Mã sinh viên:** 12423020
 
 ---
 
