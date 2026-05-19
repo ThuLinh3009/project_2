@@ -2,9 +2,10 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=ThuLinh3009/project_2&branch=main&mainModule=demo.py)
 
-> **Họ và tên:** Doan Thi Thu Linh | **Lớp:** 12423TN | **MSSV:** 12423020  
-> **Do an:** Do An 2 — Ky thuat Phan mem  
-> **Chu de:** Xay dung mo hinh du doan sinh vien co nguy co truot mon hoc ky 4
+> **Họ và tên:** Đoàn Thị Thu Linh
+> **Lớp:** 12423TN 
+> **MSSV:** 12423020  
+> **Học phần:** Đồ án 2
 
 ---
 
